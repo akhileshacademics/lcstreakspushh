@@ -6,8 +6,8 @@ class Solution:
                 d[i]=1
             else:
                 d[i]+=1
-        sorteditems=sorted(d.items(),key=lambda x:x [1],reverse=True)
-        return list(dict(sorteditems[:k]))
+        sorteditems=dict(sorted(d.items(),key=lambda x:x [1],reverse=True))
+        return list((sorteditems))[:k]
 
 
 
