@@ -8,7 +8,7 @@ class Solution:
                 d[i]+=1
         return list(dict(sorted(d.items(),key=lambda x:x [1],reverse=True)))[:k]
       #  return list(sorteditems)[:k]
-
+#TC 90.54 MS (LC) ,SC 99.30 MS (LC
 '''
  d={}
         for i in nums:
