@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -27,6 +28,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
