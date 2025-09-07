@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0347-top-k-frequent-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
