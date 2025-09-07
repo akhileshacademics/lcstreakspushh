@@ -11,6 +11,11 @@ class Solution:
 
 
         """
-        Do not return anything, modify nums in-place instead.
+        def rotate(nums, k):
+            n = len(nums)
+            k %= n
+            nums[:] = nums[-k:] + nums[:-k]   # modify in place
+
+        
         """
         
