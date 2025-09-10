@@ -4,6 +4,7 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         #sliding window
+        
         j=0
         for i in range(len(nums)):
 
@@ -13,4 +14,4 @@ class Solution:
             if nums[j]!=0:
                 j+=1
         return nums
-            
+       
