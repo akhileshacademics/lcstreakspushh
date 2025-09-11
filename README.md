@@ -57,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
@@ -65,5 +66,10 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0189-rotate-array) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
