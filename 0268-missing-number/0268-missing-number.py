@@ -7,8 +7,8 @@ class Solution:
         for num in nums:
             freq[num] = 1   # or freq[num] = freq.get(num, 0) + 1
 
-        z=list(range(len(nums)+1))
-        return(sum(z)-sum(nums))
+        #list(range(len(nums)+1))
+        return(sum(list(range(len(nums)+1)))-sum(nums))
 
             
         
