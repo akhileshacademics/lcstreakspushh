@@ -9,6 +9,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0347-top-k-frequent-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +40,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -68,8 +72,13 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0043-multiply-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
