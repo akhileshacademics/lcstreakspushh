@@ -4,7 +4,6 @@ class Solution:
         count=0
         for i in nums:
             if i==1:
-                
                 count+=1
                 prev=max(count,prev)
             else:
