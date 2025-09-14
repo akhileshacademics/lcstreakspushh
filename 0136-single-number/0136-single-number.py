@@ -9,9 +9,14 @@ class Solution:
                     freq[i]=1
         for i in freq:
             if freq[i]==1:
-                return(i)
+                return i
                 break
                 
+        '''
+        res=0
+        for num in nums:
+            res=res^num
+        return res'''
                 
                 
                 
