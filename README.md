@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0189-rotate-array) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0283-move-zeroes) |
@@ -41,6 +43,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0347-top-k-frequent-elements) |
