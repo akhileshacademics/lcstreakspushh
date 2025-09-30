@@ -1,14 +1,19 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        n=len(nums)
-        seen={}
-        for i in nums:
-            if i in seen:
-                seen[i]+=1
-            else:
-                seen[i]=1
-        
-        for i in seen.keys():
-            if seen[i]>n/2:
-                return i 
-        
+        count=0
+        majority=0
+        for i in range(len(nums)):
+            if count==0:
+                count=1
+                majority=nums[i]
+            elif nums[i]==majority:
+                count+=1
+            else :
+                count-=1
+        count1=0
+        for i in range(len(nums)):
+            if nums[i]==majority:
+                count1+=1
+        if count1>len(nums)/2:
+            return majority
+
