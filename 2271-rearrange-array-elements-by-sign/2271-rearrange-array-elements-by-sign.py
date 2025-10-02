@@ -1,13 +1,11 @@
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-
-        pos,neg=[],[]
-        for i in nums:
-            if i >0:
-                pos.append(i)
+        even,odd,ans=0,1,[0]*len(nums)
+        for i in range(len(nums)):
+            if nums[i]>0:
+                ans[even]=nums[i]
+                even+=2
             else:
-                neg.append(i)
-        ans=[0]*(len(pos)+len(neg))
-        ans[0::2]=pos
-        ans[1::2]=neg
+                ans[odd]=nums[i]
+                odd+=2
         return ans
