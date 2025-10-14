@@ -6,21 +6,14 @@ class Solution:
             if nums[i]<nums[i+1]:
                 dip=i
                 break
-
         if dip==-1:
-            nums.reverse()        
+            nums.reverse()
             return nums
-
-        for j in range(n-1,dip,-1):
+        
+        for j in range (n-1,dip,-1):
             if nums[j]>nums[dip]:
                 nums[j],nums[dip]=nums[dip],nums[j]
                 break
-                
-        nums[dip+1:]=reversed(nums[dip+1:])   
+        nums[dip+1:]=reversed(nums[dip+1:])
         return nums
-
-
-
-
-
 
