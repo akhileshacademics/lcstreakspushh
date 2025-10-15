@@ -17,6 +17,7 @@ class Solution:
             for l in range(m):
                 if row[k]==1 or col[l]==1:
                     matrix[k][l]=0
+        return matrix
             
 
         
