@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0075-sort-colors) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0268-missing-number) |
 ## Simulation
@@ -118,5 +120,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
