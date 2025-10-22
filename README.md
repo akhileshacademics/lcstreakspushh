@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0027-remove-element) |
@@ -44,6 +45,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0027-remove-element) |
@@ -135,4 +137,8 @@
 | [0036-valid-sudoku](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
