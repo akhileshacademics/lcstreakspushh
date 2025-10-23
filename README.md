@@ -28,6 +28,7 @@
 | [0347-top-k-frequent-elements](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0560-subarray-sum-equals-k) |
+| [1019-squares-of-a-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akhileshacademics/lcstreakspushh/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -55,6 +56,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0283-move-zeroes) |
+| [1019-squares-of-a-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akhileshacademics/lcstreakspushh/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -76,6 +78,7 @@
 | [0242-valid-anagram](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0347-top-k-frequent-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1019-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
