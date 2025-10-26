@@ -104,6 +104,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0242-valid-anagram) |
@@ -154,5 +155,6 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
