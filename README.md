@@ -33,6 +33,7 @@
 | [0917-boats-to-save-people](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akhileshacademics/lcstreakspushh/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -129,6 +130,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0682-baseball-game) |
+| [2058-concatenation-of-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akhileshacademics/lcstreakspushh/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
