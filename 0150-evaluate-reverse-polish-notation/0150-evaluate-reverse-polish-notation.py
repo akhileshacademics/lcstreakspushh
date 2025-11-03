@@ -9,19 +9,19 @@ class Solution:
             elif i == "+":
                 val1=stack.pop()
                 val2=stack.pop()
-                stack.append(int(val1)+int(val2))
+                stack.append((val1)+(val2))
             elif i == "-":
                 val1=stack.pop()
                 val2=stack.pop()
-                stack.append(int(val2)-int(val1))
+                stack.append((val2)-(val1))
             elif i == "/":
                 val1=stack.pop()
                 val2=stack.pop()
-                stack.append(int(val2)/int(val1))
+                stack.append(int((val2)/(val1)))
             elif i == "*":
                 val1=stack.pop()
                 val2=stack.pop()
-                stack.append(int(val2)*int(val1))
+                stack.append((val2)*(val1))
             
         return int(stack[-1])
                 
