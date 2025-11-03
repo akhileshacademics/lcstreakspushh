@@ -3,7 +3,7 @@ class Solution:
         stack=[]
 
         for i in tokens:
-            if i.lstrip('-').isdigit():
+            if i not in "*/-+":
                 stack.append(int(i))
 
             elif i == "+":
