@@ -23,7 +23,7 @@ class Solution:
                 val2=stack.pop()
                 stack.append((val2)*(val1))
             
-        return int(stack[-1])
+        return (stack[-1])
                 
 
         
