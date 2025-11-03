@@ -22,7 +22,7 @@ class Solution:
 
                 stack.append(val2*val1)
             
-        return int(stack[-1])
+        return stack[-1]
                 
 
         
