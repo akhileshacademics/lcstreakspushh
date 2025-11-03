@@ -164,9 +164,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0682-baseball-game) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
