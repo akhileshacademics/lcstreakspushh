@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0189-rotate-array) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0268-missing-number) |
 ## Simulation
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0682-baseball-game) |
 ## Trie
