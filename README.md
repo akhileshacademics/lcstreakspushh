@@ -32,6 +32,7 @@
 | [0485-max-consecutive-ones](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0705-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -49,6 +50,7 @@
 | [0268-missing-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,4 +179,13 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0155-min-stack) |
+| [0705-design-hashset](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0705-design-hashset) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
