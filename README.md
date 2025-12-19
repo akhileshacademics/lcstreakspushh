@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0128-longest-consecutive-sequence) |
@@ -112,6 +113,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0043-multiply-strings) |
@@ -188,4 +190,8 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0705-design-hashset) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
