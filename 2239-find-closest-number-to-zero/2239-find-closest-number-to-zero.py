@@ -1,11 +1,14 @@
 class Solution:
     def findClosestNumber(self, nums: List[int]) -> int:
-        mini=float('inf')
         
-        for i in nums:
-            diff=abs(i-0)
-            mini=min(mini,diff)
+        closest = nums[0]
 
-        if mini in nums:
-            return mini
-        return -mini
+        for i in nums:
+            if abs(i) < abs(closest):
+                closest =i
+
+        if closest < 0 and abs(closest) in nums:
+            return abs(closest)
+        
+
+        return closest
