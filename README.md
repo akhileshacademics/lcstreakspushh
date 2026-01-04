@@ -136,6 +136,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0268-missing-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/2769-find-the-maximum-achievable-number) |
 ## Simulation
 |  |
 | ------- |
