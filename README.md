@@ -36,6 +36,7 @@
 | [0705-design-hashset](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0705-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1019-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/2058-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/akhileshacademics/lcstreakspushh/tree/master/2239-find-closest-number-to-zero) |
@@ -96,10 +97,12 @@
 | [0347-top-k-frequent-elements](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1019-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
