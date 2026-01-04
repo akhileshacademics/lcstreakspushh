@@ -22,6 +22,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0268-missing-number) |
 ## Divide and Conquer
