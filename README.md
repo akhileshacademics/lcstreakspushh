@@ -192,6 +192,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
@@ -201,4 +202,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
