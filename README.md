@@ -38,6 +38,7 @@
 | [0917-boats-to-save-people](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1019-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1470-shuffle-the-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/2058-concatenation-of-array) |
