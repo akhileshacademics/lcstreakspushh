@@ -15,6 +15,7 @@
 | [0036-valid-sudoku](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0118-pascals-triangle) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akhileshacademics/lcstreakspushh/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -167,6 +169,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
