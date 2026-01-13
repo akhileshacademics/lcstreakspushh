@@ -1,8 +1,7 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
         n=len(nums)
-        seen={} 
-        result=[]
+        seen={}
         if n==0 or n==1:
             return nums
 
