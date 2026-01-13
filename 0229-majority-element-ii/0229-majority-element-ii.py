@@ -14,5 +14,5 @@ class Solution:
             
         for i in seen.keys():
             if seen[i] > n//3 :
-                result.append(i)
-        return result
+                nums.append(i)
+        return nums[n:]
