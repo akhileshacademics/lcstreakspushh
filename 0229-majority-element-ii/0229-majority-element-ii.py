@@ -12,6 +12,7 @@ class Solution:
             else:
                 seen[i]=1
             
+            
         for i in seen.keys():
             if seen[i] > n//3 :
                 nums.append(i)
