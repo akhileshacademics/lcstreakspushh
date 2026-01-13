@@ -3,6 +3,8 @@ class Solution:
         n=len(nums)
         seen={} 
         result=[]
+        if n==0 or n==1:
+            return nums
 
         for i in nums:
             if i in seen :
