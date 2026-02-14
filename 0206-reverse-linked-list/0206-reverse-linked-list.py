@@ -8,13 +8,18 @@ class Solution:
 
 
         prev= None
+        curr = head
+        
+        while curr!= None:
 
-        while head!= None:
-            temp = head.next
-            head.next = prev
-            prev = head
-            head = temp
+            next= curr.next
+            curr.next = prev
+            prev = curr
+            curr = next
+        
         return prev
+
+
 
 
 
