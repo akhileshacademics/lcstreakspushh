@@ -38,6 +38,7 @@
 | [0682-baseball-game](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0705-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0917-boats-to-save-people) |
+| [1004-max-consecutive-ones-iii](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1019-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1470-shuffle-the-array) |
@@ -85,6 +86,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -214,6 +217,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhileshacademics/lcstreakspushh/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/akhileshacademics/lcstreakspushh/tree/master/1004-max-consecutive-ones-iii) |
 ## Recursion
 |  |
 | ------- |
